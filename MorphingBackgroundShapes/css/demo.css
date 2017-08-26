@@ -221,7 +221,7 @@ a:focus {
 .content__desc {
 	grid-area: desc;
 	margin: 0;
-	z-index: 10;
+	z-index: 1000000000000000000;
 	padding: 0 1em;
 	cursor: default;
 }
